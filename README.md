@@ -1,10 +1,11 @@
-#👤 About the Author
-# Hi there 👋 I'm AJ!
+👤 About the Author
+AJ Enns
 
 Developer Advocate @ Microsoft | Sr. Cloud Solution Architect @ Microsoft | AI Engineer
-🎓 B Sc. Computer Science with Mathematics and Business minor from the University of Manitoba
-🧠 20+ years of experience in software development
-🔐 Passionate and trusted DevOps and Agile Advisor and Cloud Solution Architect
+
+- 🎓 B Sc. Computer Science with Mathematics and Business minor from the University of Manitoba
+- 🧠 20+ years of experience in software development
+- 🔐 Passionate and trusted DevOps and Agile Advisor and Cloud Solution Architect
 
 ## About Me
 
@@ -17,10 +18,9 @@ I'm a developer passionate about building great software and learning new techno
 
 🌴 Outside of Tech
 When I'm not architecting cloud solutions or diving into AI models, I love:
-🏄‍♂️ Motorcycle roadracing
-⛺ Photography
-👨‍👩‍👧‍👦 Spending quality time with my family
-
+- 🏍️ Motorcycle roadracing
+- 📷 Photography
+- 👨‍👩‍👧‍👦 Spending quality time with my family
 
 For more details, please visit my LinkedIn Profile 📫 <-
 
