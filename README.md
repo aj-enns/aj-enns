@@ -54,8 +54,8 @@
 When I'm not architecting cloud solutions or diving into AI models, you'll find me:
 
 - 🏍️ **Motorcycle roadracing** - Chasing adrenaline on the track
-- 📷 **Photography** - Capturing moments and landscapes
-- 👨‍👩‍👧‍👦 **Family time** - Spending quality moments with my loved ones
+- 📷 **Photography** - Capturing timeless romantic weddings
+- 👨‍👩‍👧‍👦 **Family time** - Spending quality memories with my wife and smalls
 
 ---
 
