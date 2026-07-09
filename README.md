@@ -13,7 +13,7 @@
 **Developer Advocate @ Microsoft | Sr. Cloud Solution Architect @ Microsoft | AI Engineer**
 
 - 🎓 **Education:** B.Sc. Computer Science with Mathematics and Business minor from the University of Manitoba
-- 🧠 **Experience:** 20+ years of experience in software development
+- 🧠 **Experience:** 2+ decades of experience in software development
 - 🔐 **Expertise:** Passionate and trusted DevOps and Agile Advisor and Cloud Solution Architect
 - 🔭 **Currently:** Working on various projects and exploring cutting-edge technologies
 - 🌱 **Always:** Continuously learning and improving my skills
